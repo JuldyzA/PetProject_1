@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.7.2",
+    "cypress-network-idle": "^1.14.2"
+  },
+  "dependencies": {
+    "cypress-wait-for-stable-dom": "^0.1.0"
+  }
+}
